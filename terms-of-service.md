@@ -10,7 +10,7 @@ When we say "service", and "services", we mean the service we provide.
 
 The terms are subjected to change at any time, we will notify you via an email and/or a prominent notice on our service at least 30 days in advance.
 
-**If you do not agree to abide by the term, please exit the website and/or app**
+**If you do not agree to abide by these terms, please exit the website and/or app**
 
 **By accessing our service, you agree to the following terms:**
 
