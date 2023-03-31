@@ -16,7 +16,7 @@ The terms are subjected to change at any time, we will notify you via an email a
 
 ## Jurisdiction
 
-These terms will be interpreted in accordance with the laws of the United States of America.
+These terms will be interpreted in accordance with the laws of the State of Maryland and the laws of the United States of America.
 
 ## Privacy Policy
 
@@ -55,7 +55,7 @@ The user's content does not represent our view and we are not responsible for an
 
 You ackowledges that Adapt retains all rights in all copyrights, trademarks, trade secrets, patents, and any other proprietary rights of the services created by us, our logos, banners, graphics, logo, API (Application Programming Interfaces) comprising the service, unless otherwise specified.
 
-# Links to Other Websites
+## Links to Other Websites
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy and Terms of Services of every site You visit.
 
